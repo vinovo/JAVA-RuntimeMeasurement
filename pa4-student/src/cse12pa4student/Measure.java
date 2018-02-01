@@ -1,6 +1,5 @@
 package cse12pa4student;
 
-import java.util.ArrayList;
 import java.util.List;
 import static cse12pa4mysteries.Mysteries.*;
 
@@ -23,5 +22,7 @@ public class Measure {
 	
 	public static void main(String[] args) {
 		
+		//Example call to mystery method
+		mysteryA(50);
 	}
 }
