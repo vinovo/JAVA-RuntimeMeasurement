@@ -8,6 +8,9 @@ public class Measure {
 
 	public static List<Measurement> measure(String[] toRun, int startN, int stopN) {
 		/** TODO **/
+		
+		//Example call to mystery method
+		mysteryA(50);
 		return null;
 	}
 	
