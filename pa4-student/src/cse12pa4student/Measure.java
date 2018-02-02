@@ -19,10 +19,4 @@ public class Measure {
 	
 	/* Add any helper methods you find useful */
 		
-	
-	public static void main(String[] args) {
-		
-		//Example call to mystery method
-		mysteryA(50);
-	}
 }
